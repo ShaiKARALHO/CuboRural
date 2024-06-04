@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo: ;
+    --cor-da-fonte: #D8FFDE ;
+    --cor-fonte-titulo: #026510;
+}
+
+body{
+    background-image: url(imagens/\home.png);
+}
