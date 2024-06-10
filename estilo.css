@@ -1,5 +1,8 @@
+@import url("estilos/header.css");
+
 :root{
-    --cor-de-fundo: ;
+    --cor-de-fundo: #0A110B ;
+    --cor-cabecalho: #0A110B ;
     --cor-da-fonte: #D8FFDE ;
     --cor-fonte-titulo: #026510;
 }
