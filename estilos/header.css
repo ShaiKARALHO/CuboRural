@@ -11,12 +11,12 @@
 
 .cabecalho--menu-hamburguer{
 
+    background-image: url(../imagens/barrinha.png);
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(../imagens/barrinha.png);
     height: 25px;
-    widht: 25px;
+    width: 25px;
     margin: 5px;
-
 }
+
