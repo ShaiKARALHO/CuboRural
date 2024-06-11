@@ -10,10 +10,13 @@
 }
 
 .cabecalho--menu-hamburguer{
+
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
     background-image: url(../imagens/barrinha.png);
+    height: 25px;
+    widht: 25px;
     margin: 5px;
 
 }
