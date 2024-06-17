@@ -1,14 +1,14 @@
 .cabecalho{
     background-color: var(--cor-cabecalho);
     margin: 20px;
+    display: flex;
+    justify-content: space-between;
 
 }
 
 .cabecalho--home{
     margin: 5px;
-    display: flex;
-    justify-content: end;
-
+    
 }
 
 .cabecalho--menu-hamburguer{
