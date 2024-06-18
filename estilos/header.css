@@ -10,6 +10,7 @@
     background-color: var(--cor-cabecalho);
     margin: 20px;
     display: flex;
+    justify-content: space-between;
     
 
 }
