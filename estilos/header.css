@@ -33,3 +33,7 @@
 .lista-menu{
     display: none;
 }
+
+.cabecalho--botao ~ .lista-menu{
+    display: block;
+}
