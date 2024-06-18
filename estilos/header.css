@@ -1,3 +1,9 @@
+.titulo{
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
 .cabecalho{
     background-color: var(--cor-cabecalho);
     margin: 20px;
