@@ -37,3 +37,7 @@
 .cabecalho--botao:checked ~ .lista-menu{
     display: block;
 }
+
+.cabecalho--botao{
+    display: none;
+}
