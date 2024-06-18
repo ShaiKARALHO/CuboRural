@@ -34,6 +34,6 @@
     display: none;
 }
 
-.cabecalho--botao ~ .lista-menu{
+.cabecalho--botao:checked ~ .lista-menu{
     display: block;
 }
