@@ -6,6 +6,7 @@
 
 
 .cabecalho{
+    color: var(--cor-da-fonte);
     background-color: var(--cor-cabecalho);
     margin: 20px;
     display: flex;
