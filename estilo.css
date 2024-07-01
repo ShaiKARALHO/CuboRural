@@ -1,4 +1,6 @@
 @import url("estilos/header.css");
+@import url("estilos/section.css");
+
 
 :root{
     --cor-de-fundo: #0A110B ;
