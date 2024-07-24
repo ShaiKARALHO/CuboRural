@@ -1,5 +1,5 @@
-.corpo_1{
+.corpo-1{
     background-color: var(--cor-de-fundo);
     margin: 20px;
-    color: 
+    color: var(--cor-a-fonte);
 }
