@@ -1,5 +1,21 @@
-.corpo-1{
+.corpo-tudo{
     background-color: var(--cor-de-fundo);
     margin: 0px 20px 20px 20px;
     color: var(--cor-da-fonte);
+    
+}
+
+.secao-1{
+
+
+}
+
+.secao-1-titulo{
+    margin: 30px 20px;
+
+}
+
+.secao-1-texto{
+    margin: 10px;
+
 }
