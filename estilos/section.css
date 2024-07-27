@@ -2,16 +2,18 @@
     background-color: var(--cor-de-fundo);
     margin: 0px 20px 20px 20px;
     color: var(--cor-da-fonte);
+    padding: 20px;
     
 }
 
 .secao-1{
-    text-align: center;
-
+    
 
 }
 
 .secao-1-titulo{
+    text-align: center;
+
 
 
 }
