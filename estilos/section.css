@@ -1,9 +1,10 @@
 .corpo-tudo{
     background-color: var(--cor-de-fundo);
-    margin: 0px 20px 20px 20px;
+    margin: -10px 20px 20px 20px;
     color: var(--cor-da-fonte);
-    padding: 20px;
+    padding: 30px 5px;
     border-radius: 0px 0px 10px 10px;
+    opacity: 0.8;
 }
 
 .secao-1{
