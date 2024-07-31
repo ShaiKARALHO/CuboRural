@@ -1,16 +1,13 @@
 .corpo-tudo{
     background-color: var(--cor-de-fundo);
     margin: -10px 20px 20px 20px;
+    padding
     color: var(--cor-da-fonte);
     padding: 30px 5px;
     border-radius: 0px 0px 10px 10px;
     opacity: 0.8;
 }
 
-.secao-1{
-    
-
-}
 
 .secao-1-titulo{
     text-align: center;
