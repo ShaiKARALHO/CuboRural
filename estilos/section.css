@@ -12,8 +12,6 @@
 .secao-1-titulo{
     text-align: center;
 
-
-
 }
 
 .secao-1-texto{
@@ -24,4 +22,10 @@
 .secao-1-img{
     margin: 5px;
     
+}
+
+.nextpage{
+    margin-left: 90%;
+    margin-top: 20px;
+
 }
