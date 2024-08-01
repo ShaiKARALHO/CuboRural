@@ -1,4 +1,4 @@
-.corpo-tudo{
+.corpotudo-1{
     background-color: var(--cor-de-fundo);
     margin: -10px 20px 20px 20px;
     padding;
@@ -22,6 +22,11 @@
 .secao-1-img{
     margin: 5px;
     
+}
+
+.corpotudo-1--secao-2{
+
+    margin: 20px;
 }
 
 .nextpage{
