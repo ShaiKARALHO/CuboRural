@@ -37,8 +37,7 @@
 }
 
 .corpotudo{
-    display: none;
-}
+    display: block;
 
 .ativo{
     display: block;
