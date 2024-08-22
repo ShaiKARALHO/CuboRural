@@ -42,3 +42,17 @@
 .cabecalho--botao{
     display: none;
 }
+
+@media (min-width:1024px) {
+
+.cabecalho--menu-hamburguer{
+    display:none
+}
+
+.lista-menu{
+    display: block;
+}
+
+    
+
+}
