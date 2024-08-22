@@ -38,7 +38,17 @@
 
 .corpotudo{
     display: block;
+}
 
 .ativo{
     display: block;
+}
+
+.corpotudo-2{
+    display: none;
+
+}
+
+.corpotudo-3{
+    display: none;
 }
