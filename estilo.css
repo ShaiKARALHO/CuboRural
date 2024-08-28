@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url(imagens/background2.avif);
+    background-image: url("imagens/background2.png");
     background-repeat: no-repeat;
     background-size:;
     background-position: center;
