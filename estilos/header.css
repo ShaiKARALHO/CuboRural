@@ -16,7 +16,7 @@
 }
 
 .cabecalho--home{
-    margin: 9px;
+    margin: 14px;
     
 }
 
@@ -51,7 +51,8 @@
 
 .lista-menu{
     display: block;
-    display: inline-block;
+    text-align: justify;
+    
 }
 
     
